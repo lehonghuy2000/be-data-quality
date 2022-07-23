@@ -1,0 +1,3 @@
+flask
+pandas-profiling[notebook]
+flask_cors
